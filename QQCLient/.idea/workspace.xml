@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4632b4a6-7cfd-4fe6-96bb-c5aa39d36ff4" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2Nzrr2LqLzgM0icMwd0dR4QTv7P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../QQServer" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Software\Code\CodePro\QQCLient" />
+      <recent name="E:\Software\Code\CodePro\QQCLient\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LoginFrame">
+    <configuration name="LoginFrame" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.LoginFrame" />
+      <module name="QQCLient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterFrame3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.RegisterFrame3" />
+      <module name="QQCLient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LoginFrame" />
+      <item itemvalue="Application.RegisterFrame3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoginFrame" />
+        <item itemvalue="Application.RegisterFrame3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4632b4a6-7cfd-4fe6-96bb-c5aa39d36ff4" name="默认更改列表" comment="" />
+      <created>1680677946047</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680677946047</updated>
+      <workItem from="1680677947400" duration="4925000" />
+      <workItem from="1680683106360" duration="488000" />
+      <workItem from="1680683608233" duration="97000" />
+      <workItem from="1680683715928" duration="11956000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1680690006570">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="309" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1707.1019@0.0.1707.1019" timestamp="1680690006570" />
+    <state x="584" y="212" key="FileChooserDialogImpl" timestamp="1680683728049">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="584" y="212" key="FileChooserDialogImpl/0.0.1707.1019@0.0.1707.1019" timestamp="1680683728049" />
+    <state width="1653" height="252" key="GridCell.Tab.0.bottom" timestamp="1680696759934">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1653" height="252" key="GridCell.Tab.0.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1680696759934" />
+    <state width="1653" height="252" key="GridCell.Tab.0.center" timestamp="1680696759934">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1653" height="252" key="GridCell.Tab.0.center/0.0.1707.1019@0.0.1707.1019" timestamp="1680696759934" />
+    <state width="1653" height="252" key="GridCell.Tab.0.left" timestamp="1680696759934">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1653" height="252" key="GridCell.Tab.0.left/0.0.1707.1019@0.0.1707.1019" timestamp="1680696759934" />
+    <state width="1653" height="252" key="GridCell.Tab.0.right" timestamp="1680696759934">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1653" height="252" key="GridCell.Tab.0.right/0.0.1707.1019@0.0.1707.1019" timestamp="1680696759934" />
+    <state width="1653" height="325" key="GridCell.Tab.1.bottom" timestamp="1680692243285">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1653" height="325" key="GridCell.Tab.1.bottom/0.0.1707.1019@0.0.1707.1019" timestamp="1680692243285" />
+    <state width="1653" height="325" key="GridCell.Tab.1.center" timestamp="1680692243285">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1653" height="325" key="GridCell.Tab.1.center/0.0.1707.1019@0.0.1707.1019" timestamp="1680692243285" />
+    <state width="1653" height="325" key="GridCell.Tab.1.left" timestamp="1680692243285">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1653" height="325" key="GridCell.Tab.1.left/0.0.1707.1019@0.0.1707.1019" timestamp="1680692243285" />
+    <state width="1653" height="325" key="GridCell.Tab.1.right" timestamp="1680692243285">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state width="1653" height="325" key="GridCell.Tab.1.right/0.0.1707.1019@0.0.1707.1019" timestamp="1680692243285" />
+    <state x="242" y="68" key="SettingsEditor" timestamp="1680678103174">
+      <screen x="0" y="0" width="1707" height="1019" />
+    </state>
+    <state x="242" y="68" key="SettingsEditor/0.0.1707.1019@0.0.1707.1019" timestamp="1680678103174" />
+  </component>
+</project>
